@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewisoehu.github.io/Joq/sitemap_index.txt
+Sitemap: https://ewisoehu.github.io/SBN/sitemap_index.txt
+Sitemap: https://ewisoehu.github.io/jgE/sitemap_index.txt
+Sitemap: https://ewisoehu.github.io/luD/sitemap_index.txt
